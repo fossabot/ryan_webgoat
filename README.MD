@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/WebGoat/WebGoat/badge.svg?branch=master&service=github)](https://coveralls.io/github/WebGoat/WebGoat?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/b69ee3a86e3b4afcaf993f210fccfb1d)](https://www.codacy.com/app/dm/WebGoat)
 [![Dependency Status](https://www.versioneye.com/user/projects/562da95ae346d7000e0369aa/badge.svg?style=flat)](https://www.versioneye.com/user/projects/562da95ae346d7000e0369aa)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fryan_webgoat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fryan_webgoat?ref=badge_shield)
 
 # Important Information
 
@@ -183,3 +184,7 @@ To be able to see which labels are loaded through a property file, open a new br
 Switch back to the main WebGoat broswer tab and __reload the main WebGoat browser tab__.
 
 After the reload is complete, all labels which where loaded from a property file will be __marked green__.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fryan_webgoat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fryan_webgoat?ref=badge_large)
